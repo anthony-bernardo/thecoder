@@ -1,4 +1,4 @@
-# thecoder
+# TheCoder
 
 This is a game to learn Javascript 
 
